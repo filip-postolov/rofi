@@ -4,3 +4,7 @@
 window {
     width:25%;
   }
+
+configuration {
+    font: "JetBrainsMono Nerd Font Mono 12";
+  }
